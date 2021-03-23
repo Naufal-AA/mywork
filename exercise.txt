@@ -1,0 +1,16 @@
+1. swap the list element
+2. sum of all element in list
+3. largest element in array
+4. remove empty list from another list, list= [2,5,..,[],...,[],..]
+5. remove character from given string
+
+
+
+
+
+
+
+
+
+
+
